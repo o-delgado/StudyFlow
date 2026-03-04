@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "StudyFLow",
-    "slug": "StudyFLow",
+    "name": "StudyFlow",
+    "slug": "studyflow",
+    "owner": "o-delgado",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +44,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "12c3be21-2162-4c32-a022-b589c6f620c1"
+      }
     }
   }
 }
